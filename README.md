@@ -1,16 +1,19 @@
-### Hi there 👋
+# Ryuhei Kaminishi @catelina777
 
-<!--
-**catelina777/catelina777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-Here are some ideas to get you started:
+## Hi ✌️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am Junior Web Engineer
+
+## Skills 💪
+
+- iOS(Swift) https://github.com/catelina777/Duiet-iOS
+
+- Spring Boot(Kotlin/Java)
+
+- Next.js(TypeScript)
+
+- Unity(C#)
+
+- AWS
