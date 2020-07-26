@@ -8,7 +8,7 @@ I am Junior Web Engineer
 
 ## Skills 💪
 
-- iOS(Swift) https://github.com/catelina777/Duiet-iOS
+- iOS(Swift + RxSwift + Realm or CoreData) https://github.com/catelina777/Duiet-iOS
 
 - Spring Boot(Kotlin/Java)
 
