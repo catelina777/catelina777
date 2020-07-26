@@ -18,6 +18,8 @@ I am Junior Web Engineer
 - Spring Boot(Kotlin/Java)
 
 - Next.js(TypeScript)
+  - Redux
+  - Redux-Saga
 
 - Unity(C#)
 
