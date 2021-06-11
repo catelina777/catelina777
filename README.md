@@ -8,9 +8,14 @@
 
 ## Hi ✌️
 
-I am Junior Web Engineer
+I am Web Engineer
 
 ## Skills 💪
+
+- Next.js(TypeScript)
+  - SWR
+  - Redux
+- Nest.js(Typescript)
 
 - iOS https://github.com/catelina777/Duiet-iOS
   - RxSwift
@@ -20,11 +25,5 @@ I am Junior Web Engineer
   - CI/CD(Bitrise)
 
 - Spring Boot(Kotlin/Java)
-
-- Next.js(TypeScript)
-  - Redux
-  - Redux-Saga
-
 - Unity(C#)
-
 - AWS
