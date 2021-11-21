@@ -12,18 +12,21 @@ I am Web Engineer
 
 ## Skills 💪
 
-- Next.js(TypeScript)
-  - SWR
-  - Redux
-- Nest.js(Typescript)
-
-- iOS https://github.com/catelina777/Duiet-iOS
-  - RxSwift
+- React
+  - Next.js
+  - Chakra-UI
+- Node.js
+  - Nest.js
+- Prisma
+- iOS
+  - Swift
+    - RxSwift
+    - MVVM
+  - Objective-C
   - Realm
   - CoreData
-  - MVVM
   - CI/CD(Bitrise)
-
-- Spring Boot(Kotlin/Java)
-- Unity(C#)
+- Java
+  - Spring Boot
+- Unity
 - AWS
